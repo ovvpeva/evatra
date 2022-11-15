@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 28,
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "We implement", "second": "the best solutions." },
+  "content": {
+    "first": "Our strategy is based on the use of the latest software technologies and modern developments and effective marketing methods).",
+    "second": "We offer comprehensive solutions, giving our clients an advantage over competitors with the protection of their investments."
+  },
+  "smallTitle": "About Us"
+}
